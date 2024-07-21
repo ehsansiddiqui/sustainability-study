@@ -1,6 +1,6 @@
 # Classifying biographies of directors on boards of companies
 
-This project is part of my Master thesis investigating whether prior CSR-related professional experience of directors sitting on boards of companies affects the corporate social performance (CSP) of those companies. CSR stands for corporate social responsibility and describes company conduct that is guided not only by economic concerns, but also by concerns about the environment, society, stakeholders and other discretionary factors. I investigated two hypothesis and both were supported.
+This project is part of my course project investigating whether prior CSR-related professional experience of directors sitting on boards of companies affects the corporate social performance (CSP) of those companies. CSR stands for corporate social responsibility and describes company conduct that is guided not only by economic concerns, but also by concerns about the environment, society, stakeholders and other discretionary factors. I investigated two hypothesis and both were supported.
 
 
 ## Table of Contents
@@ -8,8 +8,6 @@ This project is part of my Master thesis investigating whether prior CSR-related
 * [Project Motivation and Description](#motivation)
 * [File Description](#description)
 * [Results](#Results)
-* [Licensing, Authors, Acknowledgements](#licensing)
-
 
 ## Installation
 The code requires Python versions of 3.*, general libraries available through the Anaconda package, as well as the following:
@@ -162,6 +160,3 @@ H2: The positive relationship between the CSR-related professional experience of
 
 Both hypotheses were supported. The link between environmental experience and social experience of directors sitting on committees and the CSP of a company was higher than the link between the social and environmental experience on the overall board and CSP. Please refer to the `exploratory_data_analysis.ipynb` notebook and the `regression_analysis.ipynb` notebook for more details.
 
-
-## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The results of this thesis as well as the code can be shared and adjusted, as long as the original author (Julia Nikulski) is cited.
